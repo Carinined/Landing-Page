@@ -1,0 +1,41 @@
+body {
+	margin-top:70px;	
+}
+
+.landing {
+	background: url(https://images.unsplash.com/photo-1421867246451-d043149caab1?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=ef58ef17a759f873ac4e8e8044da8cd0) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.page-header {
+	margin-top:150px;
+	margin-left:300px;
+	margin-right:100px;
+	color:#FFF;
+}
+
+h1, 
+p {
+	text-align:center;
+	font-family:"Courier New", Courier, monospace;
+}
+
+h1 {
+	font-size:48px;
+}
+
+p {
+	font-size:18px;
+} 
+
+button {
+	margin-left:410px;
+    background: none;
+}
+
+nav {
+	font-family:"Courier New", Courier, monospace;
+}
